@@ -1,3 +1,0 @@
-python3
-pip install opencv-python
-pip install numpy
